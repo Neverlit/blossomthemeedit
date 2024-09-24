@@ -7,16 +7,16 @@
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/ukivie\/blossom-aliucord-theme\/main\/bg.png",
+        "url": "https://raw.githubusercontent.com/Neverlit/blossomthemeedit/refs/heads/main/bg.jpg",
         "blur_radius": 1
     },
     "fonts": {
-        "ginto_bold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf",
-        "ginto_medium": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf",
-        "ginto_regular": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf",
-        "whitney_bold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf",
-        "whitney_medium": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf",
-        "whitney_semibold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/CupiddeLocke.ttf"
+        "ginto_bold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF",
+        "ginto_medium": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF",
+        "ginto_regular": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF",
+        "whitney_bold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF",
+        "whitney_medium": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF",
+        "whitney_semibold": "https://github.com/Neverlit/blossomthemeedit/raw/refs/heads/main/KINKEE__.TTF"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
